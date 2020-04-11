@@ -1,3 +1,1 @@
-**Graphite** - Qtile config...
-
-<img src="screenshot(main).png">
+<img src="screenshot(experiment).png">
