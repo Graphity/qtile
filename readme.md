@@ -1,4 +1,4 @@
-# [qtile] configs
+# qtile configs
 
 these are not part of my dotfiles because I don't use qtile anymore but * belongs to `~/.config/qtile/`
 
